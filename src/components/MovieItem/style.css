@@ -1,0 +1,18 @@
+.movie-item{
+  width: 250px;
+  height: 400px;
+  margin: 10px;
+}
+
+.movie-item-rating{
+  display: flex;
+  justify-content: center;
+}
+
+.movie-item-rating > *{
+  margin-left: 10px;
+}
+
+.rating-input{
+  max-width: 60px;
+}
